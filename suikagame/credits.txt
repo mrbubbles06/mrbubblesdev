@@ -1,0 +1,6 @@
+The watermelon game is open source and uses open source projects.
+
+the watermlon game - https://github.com/mrbubbles06/the-watermelon-game
+
+p5.js - https://github.com/processing/p5.js
+p5play - https://github.com/quinton-ashley/p5play
