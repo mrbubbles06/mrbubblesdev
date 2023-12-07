@@ -1,0 +1,3 @@
+As of 12/7/2023, I, William Beemer, the developer behind any projects assosiated with this website, do not collect any user data on this website or any of the following extentions:
+- The Watermelon Game
+- AlgCalc
